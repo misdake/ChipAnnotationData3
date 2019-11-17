@@ -1,0 +1,38 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Curie",
+  "name": "NV43",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 4,
+  "source": "https://www.flickr.com/photos/98762402@N06/48314416481",
+  "createTime": "Nov 17, 2019 1:44:03 PM",
+  "width": 3340,
+  "height": 3458,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 7,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.2,
+  "heightMillimeter": 12.6
+}

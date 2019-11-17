@@ -1,0 +1,38 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Curie",
+  "name": "NV42",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 3,
+  "source": "https://www.flickr.com/photos/98762402@N06/48315924766",
+  "createTime": "Nov 17, 2019 1:43:00 PM",
+  "width": 3929,
+  "height": 3780,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 15.2,
+  "heightMillimeter": 14.6
+}

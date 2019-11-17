@@ -12,5 +12,19 @@
     "family": "Curie",
     "name": "G73",
     "url": "https://misdake.github.io/ChipAnnotationData3/G73"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "NV42",
+    "url": "https://misdake.github.io/ChipAnnotationData3/NV42"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "NV43",
+    "url": "https://misdake.github.io/ChipAnnotationData3/NV43"
   }
 ]
