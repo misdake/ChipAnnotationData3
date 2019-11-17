@@ -1,0 +1,48 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "TeraScale",
+  "name": "R600",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 5,
+  "source": "https://www.flickr.com/photos/sic66/42980198401",
+  "createTime": "Nov 17, 2019 1:49:23 PM",
+  "width": 18192,
+  "height": 18717,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 36,
+      "yMax": 37
+    },
+    {
+      "level": 1,
+      "xMax": 18,
+      "yMax": 19
+    },
+    {
+      "level": 2,
+      "xMax": 9,
+      "yMax": 10
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 5
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 2
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

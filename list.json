@@ -7,6 +7,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/K6"
   },
   {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
+    "name": "R600",
+    "url": "https://misdake.github.io/ChipAnnotationData3/R600"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Curie",
