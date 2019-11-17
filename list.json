@@ -1,0 +1,16 @@
+[
+  {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "K6",
+    "name": "K6",
+    "url": "https://misdake.github.io/ChipAnnotationData3/K6"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Curie",
+    "name": "G73",
+    "url": "https://misdake.github.io/ChipAnnotationData3/G73"
+  }
+]
