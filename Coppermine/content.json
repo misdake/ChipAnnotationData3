@@ -1,7 +1,7 @@
 {
   "vendor": "Intel",
   "type": "CPU",
-  "family": "Pentium III",
+  "family": "P6",
   "name": "Coppermine",
   "githubRepo": "misdake/ChipAnnotationData3",
   "githubIssueId": 6,

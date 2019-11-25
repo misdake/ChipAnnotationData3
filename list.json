@@ -9,7 +9,14 @@
   {
     "vendor": "Intel",
     "type": "CPU",
-    "family": "Pentium III",
+    "family": "P5",
+    "name": "P54C",
+    "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "P6",
     "name": "Coppermine",
     "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
   },
