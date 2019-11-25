@@ -1,0 +1,43 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "Pentium III",
+  "name": "Coppermine",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 6,
+  "source": "https://www.flickr.com/photos/130561288@N04/38025178422",
+  "createTime": "Nov 25, 2019 8:05:04 AM",
+  "width": 6216,
+  "height": 5135,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 13,
+      "yMax": 11
+    },
+    {
+      "level": 1,
+      "xMax": 7,
+      "yMax": 6
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 11.2,
+  "heightMillimeter": 9.3
+}
