@@ -1,0 +1,43 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "TeraScale",
+  "name": "RV770",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 8,
+  "source": "https://www.flickr.com/photos/sic66/40594799122/",
+  "createTime": "Nov 28, 2019 3:14:19 AM",
+  "width": 6041,
+  "height": 4028,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 12,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 6,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
