@@ -1,0 +1,38 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "TeraScale2",
+  "name": "Barts",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 9,
+  "source": "https://www.flickr.com/photos/159470365@N05/39149264575",
+  "createTime": "Dec 2, 2019 5:23:06 AM",
+  "width": 2103,
+  "height": 1647,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 1,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
