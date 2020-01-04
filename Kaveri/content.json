@@ -1,6 +1,6 @@
 {
   "vendor": "AMD",
-  "type": "APU",
+  "type": "CPU",
   "family": "SR+GCN2",
   "name": "Kaveri",
   "githubRepo": "misdake/ChipAnnotationData3",
