@@ -28,6 +28,13 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/Coppermine"
   },
   {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "Skylake",
+    "name": "Skylake_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
+  },
+  {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "RDNA",
