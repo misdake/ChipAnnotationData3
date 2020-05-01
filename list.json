@@ -37,6 +37,13 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "SandyBridge",
+    "name": "SandyBridge_4+2",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
