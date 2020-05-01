@@ -23,6 +23,13 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "Conroe",
+    "name": "Conroe",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Conroe"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "P5",
     "name": "P54C",
     "url": "https://misdake.github.io/ChipAnnotationData3/P54C"
