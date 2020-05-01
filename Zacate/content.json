@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Bobcat+TeraScale2",
+  "name": "Zacate",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 14,
+  "source": "https://www.ixbt.com/cpu/amd-bobcat-2.shtml",
+  "createTime": "May 1, 2020 10:58:09 AM",
+  "width": 2051,
+  "height": 1821,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 1,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
