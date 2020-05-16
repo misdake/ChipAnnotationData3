@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "SandyBridge",
+  "name": "SandyBridge_Core",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 19,
+  "source": "https://www.flickr.com/photos/187597251@N05/49865049402",
+  "createTime": "May 16, 2020 7:01:46 AM",
+  "width": 8452,
+  "height": 14303,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 17,
+      "yMax": 28
+    },
+    {
+      "level": 1,
+      "xMax": 9,
+      "yMax": 14
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 7
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 4
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

@@ -59,6 +59,13 @@
     "vendor": "Intel",
     "type": "CPU",
     "family": "SandyBridge",
+    "name": "SandyBridge_Core",
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "SandyBridge",
     "name": "SandyBridge_IGP",
     "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
   },
