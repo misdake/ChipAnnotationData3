@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "K10+TeraScale2",
+  "name": "Llano",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 17,
+  "source": "https://www.flickr.com/photos/188274121@N02/49890931367",
+  "createTime": "May 16, 2020 6:53:31 AM",
+  "width": 1733,
+  "height": 2070,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 4,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 2,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 1,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

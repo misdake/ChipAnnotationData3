@@ -9,6 +9,13 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "K10+TeraScale2",
+    "name": "Llano",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Llano"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K6",
     "name": "K6",
     "url": "https://misdake.github.io/ChipAnnotationData3/K6"
