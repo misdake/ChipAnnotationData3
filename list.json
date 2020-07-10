@@ -28,11 +28,25 @@
     "url": "https://misdake.github.io/ChipAnnotationData3/Kaveri"
   },
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Zen2+GCN5",
+    "name": "Renoir",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
+  },
+  {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Conroe",
     "name": "Conroe",
     "url": "https://misdake.github.io/ChipAnnotationData3/Conroe"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridge_2+2",
+    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
   },
   {
     "vendor": "Intel",

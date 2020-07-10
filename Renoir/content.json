@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen2+GCN5",
+  "name": "Renoir",
+  "githubRepo": "misdake/ChipAnnotationData3",
+  "githubIssueId": 20,
+  "source": "https://www.flickr.com/photos/130561288@N04/50016639913",
+  "createTime": "Jul 10, 2020 9:49:44 AM",
+  "width": 4224,
+  "height": 3351,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 9,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 13.975,
+  "heightMillimeter": 11.092
+}
