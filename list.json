@@ -9,6 +9,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Bulldozer",
+    "name": "Bulldozer_Module",
+    "listname": "Bulldozer Module",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Bulldozer_Module"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "K10+TeraScale2",
     "name": "Llano",
     "url": "https://misdake.github.io/ChipAnnotationData3/Llano"
@@ -33,6 +41,41 @@
     "family": "Zen2+GCN5",
     "name": "Renoir",
     "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi10",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Navi10"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "RDNA",
+    "name": "Navi14",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
+    "name": "R600",
+    "url": "https://misdake.github.io/ChipAnnotationData3/R600"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale",
+    "name": "RV770",
+    "url": "https://misdake.github.io/ChipAnnotationData3/RV770"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "TeraScale2",
+    "name": "Barts",
+    "url": "https://misdake.github.io/ChipAnnotationData3/Barts"
   },
   {
     "vendor": "Intel",
@@ -89,41 +132,6 @@
     "family": "Skylake",
     "name": "Skylake_Core",
     "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
-    "family": "RDNA",
-    "name": "Navi10",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Navi10"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
-    "family": "RDNA",
-    "name": "Navi14",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
-    "family": "TeraScale",
-    "name": "R600",
-    "url": "https://misdake.github.io/ChipAnnotationData3/R600"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
-    "family": "TeraScale",
-    "name": "RV770",
-    "url": "https://misdake.github.io/ChipAnnotationData3/RV770"
-  },
-  {
-    "vendor": "ATI/AMD",
-    "type": "GPU",
-    "family": "TeraScale2",
-    "name": "Barts",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Barts"
   },
   {
     "vendor": "nVIDIA",
