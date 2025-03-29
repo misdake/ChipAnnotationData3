@@ -54,6 +54,7 @@
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi14",
+    "listname": "Navi14(IR)",
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
   },
   {
