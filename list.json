@@ -40,7 +40,8 @@
     "type": "CPU",
     "family": "Zen2+GCN5",
     "name": "Renoir",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir"
+    "url": "https://misdake.github.io/ChipAnnotationData3/Renoir",
+    "listname": "Renoir (IR)"
   },
   {
     "vendor": "ATI/AMD",
@@ -54,7 +55,7 @@
     "type": "GPU",
     "family": "RDNA",
     "name": "Navi14",
-    "listname": "Navi14(IR)",
+    "listname": "Navi14 (IR)",
     "url": "https://misdake.github.io/ChipAnnotationData3/Navi14"
   },
   {
@@ -90,7 +91,8 @@
     "type": "CPU",
     "family": "IvyBridge",
     "name": "IvyBridge_2+2",
-    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2"
+    "url": "https://misdake.github.io/ChipAnnotationData3/IvyBridge_2+2",
+    "listname": "IvyBridge 2+2"
   },
   {
     "vendor": "Intel",
@@ -111,28 +113,32 @@
     "type": "CPU",
     "family": "SandyBridge",
     "name": "SandyBridge_4+2",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2"
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_4+2",
+    "listname": "SandyBridge 4+2"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "SandyBridge",
     "name": "SandyBridge_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core"
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_Core",
+    "listname": "SandyBridge Core"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "SandyBridge",
     "name": "SandyBridge_IGP",
-    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP"
+    "url": "https://misdake.github.io/ChipAnnotationData3/SandyBridge_IGP",
+    "listname": "SandyBridge IGP"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_Core",
-    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core"
+    "url": "https://misdake.github.io/ChipAnnotationData3/Skylake_Core",
+    "listname": "Skylake Core"
   },
   {
     "vendor": "nVIDIA",
