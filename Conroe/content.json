@@ -4,7 +4,7 @@
   "family": "Conroe",
   "name": "Conroe",
   "githubRepo": "misdake/ChipAnnotationData3",
-  "githubIssueId": 16,
+  "githubIssueId": 0,
   "source": "https://www.flickr.com/photos/187597251@N05/49762351546",
   "createTime": "May 1, 2020 11:48:46 AM",
   "width": 22999,
@@ -43,9 +43,9 @@
       "yMax": 2
     }
   ],
-  "widthMillimeter": 12.2344,
-  "heightMillimeter": 9.4273,
+  "widthMillimeter": 13.6228,
+  "heightMillimeter": 10.4971,
   "imageAuthorName": "Cole L",
   "imageAuthorUrl": "https://www.flickr.com/photos/187597251@N05/",
-  "specUrl": "https://www.techpowerup.com/cpu-specs/core-2-duo-e8200.c468"
+  "specUrl": "https://www.techpowerup.com/cpu-specs/core-2-duo-e6850.c422"
 }
